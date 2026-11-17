@@ -22,5 +22,3 @@ One operating system for the whole company instead of ERP, CRM, WMS and the spre
 - Modules: https://hurukan.com/modules
 - What is hyperautomation: https://hurukan.com/blog/what-is-hyperautomation
 - Blog: https://hurukan.com/blog
-
-<sub>Hurukan is pre-launch and in build. Public repositories will appear here when they are ready.</sub>
